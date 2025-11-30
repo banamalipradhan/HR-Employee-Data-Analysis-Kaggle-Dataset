@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="cover page/HR-Analytics-CoverPage.png
- " width="800" alt="HR Employees Data Analysis">
+  <img src="cover page/HR-Analytics-CoverPage.png" width="800" alt="HR Employees Data Analysis">
 </p>
-
 
 # HR Employee Data Analysis & EDA
 
